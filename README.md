@@ -1,1 +1,4 @@
-# atividade-git-basico
+# Gerador de Senhas Seguras
+Projeto acadêmico de versionamento.
+Integrantes: Hugo Cortez e [Nome do Colega Fictício]
+Objetivo: Script básico em Python para gerar senhas aleatórias.s
